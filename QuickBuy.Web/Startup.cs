@@ -65,6 +65,7 @@ namespace QuickBuy.Web
                 {
                     spa.UseProxyToSpaDevelopmentServer("http://localhost:4200/");
                    // spa.UseAngularCliServer(npmScript: "start");
+
                 }
             });
         }
